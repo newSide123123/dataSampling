@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net7.0\Replace With Alphabet Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net7.0\Replace With Alphabet Position.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net7.0\Replace With Alphabet Position.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net7.0\Replace With Alphabet Position.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net7.0\Replace With Alphabet Position.exe
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net7.0\Replace With Alphabet Position.deps.json
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net7.0\Replace With Alphabet Position.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net7.0\Replace With Alphabet Position.dll
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net7.0\Replace With Alphabet Position.pdb
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net7.0\Replace With Alphabet Position.dll
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net7.0\refint\Replace With Alphabet Position.dll
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net7.0\Replace With Alphabet Position.pdb
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net7.0\Replace With Alphabet Position.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net7.0\ref\Replace With Alphabet Position.dll
